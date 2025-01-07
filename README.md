@@ -1,1 +1,2 @@
-I have created a E-commerce website using html and css . where i have given description of the product .
+This repository contains a fully responsive e-commerce website designed to showcase products and provide an engaging shopping experience.
+
